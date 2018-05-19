@@ -2,7 +2,7 @@
 
 var name = "Arvin"
 
-// you can use in
+// you can use parseInt() to convert the string into an int
 var height = 66
 
 console.log("Name:")
